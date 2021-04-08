@@ -8,37 +8,37 @@
   // TODO New key - Add a translation
   "401.link.home-page": "Take me to the home page",
   
-  // "401.unauthorized": "unauthorized",
+  "401.unauthorized": " غير مصرح لك ",
   // TODO New key - Add a translation
-  "401.unauthorized": "unauthorized",
+  //"401.unauthorized": "unauthorized",
   
   
   
-  // "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
+   "403.help": "ليس لديك إذن للوصول إلى هذه الصفحة. يمكنك استخدام الزر أدناه للعودة إلى الصفحة الرئيسية.",
   // TODO New key - Add a translation
-  "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
+  //"403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
   
   // "403.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "403.link.home-page": "Take me to the home page",
+  "403.link.home-page": "خذني إلى الصفحة الرئيسية",
   
-  // "403.forbidden": "forbidden",
+   "403.forbidden": "غير مسموح",
   // TODO New key - Add a translation
-  "403.forbidden": "forbidden",
+  //"403.forbidden": "forbidden",
   
   
   
-  // "404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
+   "404.help": "لا يمكننا العثور على الصفحة التي تبحث عنها. ربما تم نقل الصفحة أو حذفها. يمكنك استخدام الزر أدناه للعودة إلى الصفحة الرئيسية. ",
   // TODO New key - Add a translation
-  "404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
+  //"404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
   
-  // "404.link.home-page": "Take me to the home page",
+   "404.link.home-page": "خذني إلى الصفحة الرئيسية",
   // TODO New key - Add a translation
-  "404.link.home-page": "Take me to the home page",
+  //"404.link.home-page": "Take me to the home page",
   
-  // "404.page-not-found": "page not found",
+   "404.page-not-found": "الصفحة غير موجودة",
   // TODO New key - Add a translation
-  "404.page-not-found": "page not found",
+  //"404.page-not-found": "page not found",
   
   // "admin.curation-tasks.breadcrumbs": "System curation tasks",
   // TODO New key - Add a translation
